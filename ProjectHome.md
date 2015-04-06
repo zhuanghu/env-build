@@ -1,0 +1,1 @@
+This is a J2EE develop env of Spring,Spring MVC and MyBatis base on Maven
